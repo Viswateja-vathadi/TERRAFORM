@@ -1,0 +1,15 @@
+# Install Terraform
+## Windows
+Install Terraform from the Downloads [https://developer.hashicorp.com/terraform/install]
+(or)
+Use GitHub Codespaces (Free for 60 hours per month)
+Login to your GitHub account
+Click on the Profile Icon at the top right
+Click on "your codespaces" as shown in the 
+Codespaces will provide you with a virtual machine with Ubuntu and VS Code by default.
+Follow the steps provided on the Downloads [https://developer.hashicorp.com/terraform/install] for Linux.
+
+# Linux
+Follow the steps provided on the Downloads [https://developer.hashicorp.com/terraform/install] for Linux.
+# macOS
+Follow the steps provided on the Downloads [https://developer.hashicorp.com/terraform/install] for macOS.
